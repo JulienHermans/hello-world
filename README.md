@@ -3,5 +3,5 @@ tutoriual repository
 
 Hi peeps,
 
-last test of the night or not?-
-yes test97 for jenkins integration
+test with ngrok
+test for jenkins integration
